@@ -1,0 +1,15 @@
+﻿  stocksAccount_Alankara.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\utility(201): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\adithya\source\repos\finalproject_alankara\finalproject_alankara\stocksaccount_alankara.cpp(80): note: see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,double&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=double &
+          ]
+  c:\users\adithya\source\repos\finalproject_alankara\finalproject_alankara\stocksaccount_alankara.cpp(80): note: see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,double&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=double &
+          ]
+  FinalProject_Alankara.vcxproj -> C:\Users\ADITHYA\source\repos\FinalProject_Alankara\x64\Debug\FinalProject_Alankara.exe

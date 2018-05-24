@@ -1,0 +1,11 @@
+﻿stocksAccount_Alankara.obj : error LNK2019: unresolved external symbol _mxGetPr referenced in function "public: void __thiscall stocksAccount_Alankara::plotPF(void)" (?plotPF@stocksAccount_Alankara@@QAEXXZ)
+stocksAccount_Alankara.obj : error LNK2019: unresolved external symbol _mxDestroyArray referenced in function "public: void __thiscall stocksAccount_Alankara::plotPF(void)" (?plotPF@stocksAccount_Alankara@@QAEXXZ)
+stocksAccount_Alankara.obj : error LNK2019: unresolved external symbol _mxCreateDoubleMatrix_730 referenced in function "public: void __thiscall stocksAccount_Alankara::plotPF(void)" (?plotPF@stocksAccount_Alankara@@QAEXXZ)
+stocksAccount_Alankara.obj : error LNK2019: unresolved external symbol _engEvalString referenced in function "public: void __thiscall stocksAccount_Alankara::plotPF(void)" (?plotPF@stocksAccount_Alankara@@QAEXXZ)
+stocksAccount_Alankara.obj : error LNK2019: unresolved external symbol _engOpen referenced in function "public: void __thiscall stocksAccount_Alankara::plotPF(void)" (?plotPF@stocksAccount_Alankara@@QAEXXZ)
+stocksAccount_Alankara.obj : error LNK2019: unresolved external symbol _engPutVariable referenced in function "public: void __thiscall stocksAccount_Alankara::plotPF(void)" (?plotPF@stocksAccount_Alankara@@QAEXXZ)
+G:\MATLAB\R2016b\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+G:\MATLAB\R2016b\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+G:\MATLAB\R2016b\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+G:\MATLAB\R2016b\extern\lib\win64\microsoft\libmat.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\ADITHYA\source\repos\FinalProject_Alankara\Debug\FinalProject_Alankara.exe : fatal error LNK1120: 6 unresolved externals
